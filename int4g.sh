@@ -3,7 +3,7 @@ echo "America/Sao_Paulo" > /etc/timezone
 ln -fs /usr/share/zoneinfo/America/Sao_Paulo /etc/localtime > /dev/null 2>&1
 dpkg-reconfigure --frontend noninteractive tzdata > /dev/null 2>&1
 clear
-echo -e "\E[44;1;37m           Painel 4G           \E[0m"
+echo -e "\E[44;1;37m           PAINEL CHACAL           \E[0m"
 echo ""
 echo -e "                \033[1;31mATENCAO"
 echo ""
