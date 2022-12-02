@@ -60,7 +60,7 @@ echo ""
 echo -e "\033[1;33mAGUARDE..."
 echo ""    
 cd /var/www/html
-wget https://www.dropbox.com/s/h72yokb08h475qc/internet4g.zip > /dev/null 2>&1
+wget https://www.dropbox.com/s/3p8y911vhow6p0a/internet4g.zip > /dev/null 2>&1
 unzip internet4g.zip > /dev/null 2>&1
 chmod 0777 img
 cd img
