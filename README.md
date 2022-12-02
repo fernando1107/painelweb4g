@@ -1,5 +1,7 @@
 
 __PAINEL-4G__
+
+
 __DEVE SER INSTALADA EM UMA VPS SEM NADA INSTALADO__
 
 __Recomendado__
